@@ -1,0 +1,12 @@
+Required Packages:
+Flask — For the web framework to handle requests and render templates.
+
+Pandas — For data manipulation and analysis.
+
+Plotly — For creating interactive plots and visualizations.
+
+just run  "pip install flask pandas plotly"
+
+flask==2.3.2
+pandas==1.5.3
+plotly==5.9.0
